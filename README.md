@@ -56,3 +56,8 @@ A smart car that can detect fire using a flame sensor and navigate autonomously 
 
 ## Project Post
 [View Project on LinkedIn](https://www.linkedin.com/posts/eyad-ayman-07284320a_arduino-robotics-embeddedsystems-ugcPost-7461080574997245952-8wgR/?utm_source=share&utm_medium=member_android&rcm=ACoAADUpWJYB7baiHhIHcF-bkss4JbHEARyIXLA)
+
+
+
+## Project Code
+[View Project Code](project2.ino)
