@@ -20,7 +20,7 @@ A smart car that can detect fire using a flame sensor and navigate autonomously 
 ## Project Poster
 
 
-![Poster](Pre_final_Copy_of_Measurements_Poster (1)(1).pdf)
+![Poster](https://github.com/eyaddahroug/Autonomous-and-Controlled-car-by-arduino-/blob/main/Poster.pdf)
 
 
 
