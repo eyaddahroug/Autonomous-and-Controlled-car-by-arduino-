@@ -20,7 +20,7 @@ A smart car that can detect fire using a flame sensor and navigate autonomously 
 ## Project Poster
 
 
-![Poster](Pre_final_Copy_of_Measurements_P.jpg)
+![Poster](Pre_final_Copy_of_Measurements_Poster (1)(1).pdf)
 
 
 
